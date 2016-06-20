@@ -1,0 +1,96 @@
+body{
+	margin: 0;
+}
+h1{
+	margin: 0;
+}
+.img{
+	width: 200px;
+	height: 200px;
+	margin-top: 50px;
+	/*border: 2px solid red;*/
+	border-radius: 50%;
+}
+.slide{
+	display: flex;
+	background-color: black;
+	}
+.cover-slide{
+	width: 100%;
+	height: 80vh;
+	border: 2px solid red;
+	border-radius: 15px;
+}
+
+.container-link {
+	width: 80%;
+	height: 80vh;
+	margin: 4% auto;
+	border-radius: 15px;
+
+}
+
+/*.cover-slide:hover{
+	display: ;
+	border: 5px solid green;
+}
+*/
+.airbnb{
+	
+	background-image: url(../images/airbnb-cover.png);
+	background-size: cover;
+
+}
+.irvingfarm{
+	background-image: url(../images/irvingfarm-cover.png);
+	background-size: cover;
+}
+.art-like{
+	background-image: url(../images/art-like-cover.png);
+	background-size: cover;
+}
+.panamburger{
+	background-image: url(../images/panamburger-cover.png);
+	background-size: cover;
+}
+
+.prez{
+	background-color: black;
+	color: white;
+	text-align: center;
+}
+
+.bouton-github{
+	width: 100px;
+	height: 50px;
+	background-color: red;
+	/*display: none;*/
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
