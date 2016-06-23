@@ -13,7 +13,7 @@ $(document).ready(function() {
 
         //Scrolling
         // css3: true,
-        scrollingSpeed: 3000,
+        scrollingSpeed: 1500,
         // autoScrolling: true,
         // fitToSection: true,
         // fitToSectionDelay: 1000,
@@ -22,8 +22,8 @@ $(document).ready(function() {
         // easingcss3: 'ease',
         // loopBottom: false,
         // loopTop: false,
-        // loopHorizontal: true,
-        // continuousVertical: false,
+        loopHorizontal: true,
+        continuousVertical: true,
         // normalScrollElements: '#element1, .element2',
         // scrollOverflow: false,
         // scrollOverflowOptions: null,
@@ -38,7 +38,7 @@ $(document).ready(function() {
         //Design
         controlArrows: true,
         // verticalCentered: true,
-        sectionsColor : ['black', 'grey'],
+        sectionsColor : ['black', 'grey','red'],
         // paddingTop: '3em',
         // paddingBottom: '10px',
         // fixedElements: '#header, .footer',
