@@ -38,7 +38,7 @@ $(document).ready(function() {
         //Design
         controlArrows: true,
         // verticalCentered: true,
-        sectionsColor : ['black', 'grey','red'],
+        sectionsColor : ['black', 'black','red'],
         // paddingTop: '3em',
         // paddingBottom: '10px',
         // fixedElements: '#header, .footer',
